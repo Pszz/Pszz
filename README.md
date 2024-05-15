@@ -1,6 +1,6 @@
-Hi, I'm **Pipi**.
+Hi, I'm **PP**.
 
-- 🍰 I'm web3 front-end infrastructure developer.
+# 🍰 A WEB3 front-end infrastructure developer
 
 
 
